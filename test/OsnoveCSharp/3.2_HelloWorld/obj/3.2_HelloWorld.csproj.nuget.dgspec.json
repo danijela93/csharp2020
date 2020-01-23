@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mrvic\\csharp2020\\pmrvic\\CSharp2020\\CSharp2020.csproj": {}
+    "D:\\Mrvic\\csharp2020\\test\\OsnoveCSharp\\3.2_HelloWorld\\3.2_HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\Mrvic\\csharp2020\\pmrvic\\CSharp2020\\CSharp2020.csproj": {
+    "D:\\Mrvic\\csharp2020\\test\\OsnoveCSharp\\3.2_HelloWorld\\3.2_HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mrvic\\csharp2020\\pmrvic\\CSharp2020\\CSharp2020.csproj",
-        "projectName": "CSharp2020",
-        "projectPath": "D:\\Mrvic\\csharp2020\\pmrvic\\CSharp2020\\CSharp2020.csproj",
+        "projectUniqueName": "D:\\Mrvic\\csharp2020\\test\\OsnoveCSharp\\3.2_HelloWorld\\3.2_HelloWorld.csproj",
+        "projectName": "3.2_HelloWorld",
+        "projectPath": "D:\\Mrvic\\csharp2020\\test\\OsnoveCSharp\\3.2_HelloWorld\\3.2_HelloWorld.csproj",
         "packagesPath": "C:\\Users\\office10\\.nuget\\packages\\",
-        "outputPath": "D:\\Mrvic\\csharp2020\\pmrvic\\CSharp2020\\obj\\",
+        "outputPath": "D:\\Mrvic\\csharp2020\\test\\OsnoveCSharp\\3.2_HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
